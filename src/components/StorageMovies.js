@@ -6,6 +6,8 @@ import Film from "./Film";
 import { AsyncStorage } from 'react-native';
 import StorageMovie from "./StorageMovie";
 
+// Ce fichier est fait pour afficher les films qui sont dans le storage mais n'est pas utilisé.
+// J’utilise le fichier movies.json comme ma base de films.
 
 export function StorageMovies(props) {
 
