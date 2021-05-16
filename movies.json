@@ -1,0 +1,86 @@
+{
+  "films": [
+    {
+      "Title": "Guardians of the Galaxy Vol. 2",
+      "Year": "2017",
+      "Rated": "PG-13",
+      "Released": "05 May 2017",
+      "Runtime": "136 min",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "Director": "James Gunn",
+      "Writer": "James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)",
+      "Actors": "Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel",
+      "Plot": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 15 wins & 57 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "67/100"
+        }
+      ],
+      "Metascore": "67",
+      "imdbRating": "7.6",
+      "imdbVotes": "583,183",
+      "imdbID": "tt3896198",
+      "Type": "movie",
+      "DVD": "10 Jul 2017",
+      "BoxOffice": "$389,813,101",
+      "Production": "Marvel Studios, Walt Disney Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Fight Club",
+      "Year": "1999",
+      "Rated": "R",
+      "Released": "15 Oct 1999",
+      "Runtime": "139 min",
+      "Genre": "Drama",
+      "Director": "David Fincher",
+      "Writer": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+      "Actors": "Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier",
+      "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "Language": "English",
+      "Country": "Germany, USA",
+      "Awards": "Nominated for 1 Oscar. Another 11 wins & 37 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "79%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "8.8",
+      "imdbVotes": "1,883,948",
+      "imdbID": "tt0137523",
+      "Type": "movie",
+      "DVD": "25 Nov 2015",
+      "BoxOffice": "$37,030,102",
+      "Production": "Art Linson Productions, Fox 2000 Pictures, Taurus Film, New Regency Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {"Title":"Requiem for a Dream","Year":"2000","Rated":"R","Released":"15 Dec 2000","Runtime":"102 min","Genre":"Drama","Director":"Darren Aronofsky","Writer":"Hubert Selby Jr. (based on the book by), Hubert Selby Jr. (screenplay), Darren Aronofsky (screenplay)","Actors":"Ellen Burstyn, Jared Leto, Jennifer Connelly, Marlon Wayans","Plot":"The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.","Language":"English","Country":"USA","Awards":"Nominated for 1 Oscar. Another 37 wins & 69 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.3/10"},{"Source":"Rotten Tomatoes","Value":"79%"},{"Source":"Metacritic","Value":"68/100"}],"Metascore":"68","imdbRating":"8.3","imdbVotes":"776,501","imdbID":"tt0180093","Type":"movie","DVD":"06 Dec 2015","BoxOffice":"$3,635,482","Production":"Thousand Words, Industry Entertainment, Truth and Soul Pictures, Bandeira Entertainment, Requiem for a Dream LLC, Artisan Entertainment, Protozoa Pictures, Sibling Productions","Website":"N/A","Response":"True"},
+    {"Title":"Joker","Year":"2019","Rated":"R","Released":"04 Oct 2019","Runtime":"122 min","Genre":"Crime, Drama, Thriller","Director":"Todd Phillips","Writer":"Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)","Actors":"Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy","Plot":"In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.","Language":"English","Country":"USA, Canada","Awards":"Won 2 Oscars. Another 116 wins & 235 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.4/10"},{"Source":"Rotten Tomatoes","Value":"68%"},{"Source":"Metacritic","Value":"59/100"}],"Metascore":"59","imdbRating":"8.4","imdbVotes":"985,354","imdbID":"tt7286456","Type":"movie","DVD":"03 Oct 2019","BoxOffice":"$335,451,311","Production":"Bron Studios, Creative Wealth Media Finance, DC Comics","Website":"N/A","Response":"True"}
+  ]
+}
